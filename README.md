@@ -20,7 +20,6 @@ Want to know more about me? [Check out my portfolio.](https://jpx32.github.io/po
 ->>
 <!-- BLOG-POST-LIST:END -->
 -Check back later :)
-
 <br>
 
 ## 📌 Pinned Repositories
