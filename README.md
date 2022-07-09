@@ -43,10 +43,10 @@ Want to know more about me? [Check out my portfolio.](https://jpx32.github.io/po
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jpx32&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/jpx32/dotfiles">
+<!--<a href="https://github.com/jpx32/dotfiles">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jpx32&repo=dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+-->
 <br>
 <br>
 
