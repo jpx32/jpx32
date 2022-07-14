@@ -39,8 +39,8 @@ Want to know more about me? [Check out my portfolio.](https://jpx32.github.io/po
 
 <br>
 
-<a href="https://github.com/jpx32/portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jpx32&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=23272a" />
+<a href="https://github.com/jpx32/jpx32.github.io">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jpx32&repo=jpx32.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=23272a" />
 </a>
 
 <!--<a href="https://github.com/jpx32/dotfiles">
